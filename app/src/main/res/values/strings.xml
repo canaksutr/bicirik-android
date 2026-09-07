@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bıcırık</string>
+    <string name="offline_title">İnternet bağlantısı yok</string>
+    <string name="offline_text">Bıcırık uygulamasını kullanmak için internet bağlantınızı kontrol edin.</string>
+    <string name="retry">Tekrar dene</string>
+</resources>
+
